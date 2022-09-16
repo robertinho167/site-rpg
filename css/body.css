@@ -1,0 +1,50 @@
+body{
+    background-image: url(../img/fundo-inicial.jpg);
+}
+.cabeca{
+    background-color: #00cec9;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: row;
+    border: 100px;
+    margin: 10px;
+    align-items: center;
+}
+.herois-img{
+    justify-content: center;
+    justify-items: start;
+    margin: 5px;
+}
+.o-balar-de-um-planeta{
+    text-align: center;
+}
+.herois{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+.explicacao-historia{
+    background-color: #00b894;
+    margin: 20px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10%;
+}
+.botao-key{
+    width: 200px;
+    height: 30px;
+    border-radius: 20%;
+    margin: 10px;
+}
+.menu{
+    background-color: #00b894;
+    border: 100px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.herois-texto{
+    text-align: center;
+    align-items: center;
+}
